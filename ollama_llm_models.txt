@@ -1,0 +1,2 @@
+ollama pull llama3:instruct
+ollama run llama3:instruct
